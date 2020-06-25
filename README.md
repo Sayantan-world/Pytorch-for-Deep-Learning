@@ -13,8 +13,7 @@ PyTorch is an open source machine learning library based on the Torch library, u
 2. Pandas
 3. Torch
 
-
-
+---
+**Notebooks for guide :**<br><br>
 **1. Numpy** - https://jovian.ml/sayantan-world98/numpy
-<br><br>
 **2. Pandas** - https://jovian.ml/sayantan-world98/pandas
