@@ -24,3 +24,7 @@ PyTorch is an open source machine learning library based on the Torch library, u
 **Pandas** - Pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license.
 
 ---
+#### 3. Pytorch Basics -  https://jovian.ml/sayantan-world98/pytorch-basics-1
+**PyTorch** - PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab. It is free and open-source software released under the Modified BSD license.
+
+---
