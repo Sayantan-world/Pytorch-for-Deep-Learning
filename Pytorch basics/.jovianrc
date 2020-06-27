@@ -1,3 +1,7 @@
 {
-  "notebooks": {}
+  "notebooks": {
+    "Pytorch_Basics.ipynb": {
+      "slug": "b60e2881d18945b19a7da1b2c5f58ba3"
+    }
+  }
 }
