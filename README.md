@@ -28,3 +28,15 @@ PyTorch is an open source machine learning library based on the Torch library, u
 **PyTorch** - PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab. It is free and open-source software released under the Modified BSD license.
 
 ---
+#### 3. Pytorch Operations -  https://jovian.ml/sayantan-world98/pytorch-operations
+**PyTorch** - PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab. It is free and open-source software released under the Modified BSD license.
+
+This section covers:
+* Indexing and slicing
+* Reshaping tensors (tensor views)
+* Tensor arithmetic and basic operations
+* Dot products
+* Matrix multiplication
+* Additional, more advanced operations
+
+---
