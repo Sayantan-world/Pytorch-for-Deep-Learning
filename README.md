@@ -42,9 +42,8 @@ This section covers:
 **ANN** - Artificial neural networks or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains. Such systems "learn" to perform tasks by considering examples, generally without being programmed with task-specific rules.
 
 #### 1.  This section covers the PyTorch <a href='https://pytorch.org/docs/stable/autograd.html'><strong><tt>autograd</tt></strong></a> implementation of gradient descent. Tools include:
+#### Notebook Link : https://jovian.ml/sayantan-world98/00-pytorch-gradients
 * <a href='https://pytorch.org/docs/stable/autograd.html#torch.autograd.backward'><tt><strong>torch.autograd.backward()</strong></tt></a>
 * <a href='https://pytorch.org/docs/stable/autograd.html#torch.autograd.grad'><tt><strong>torch.autograd.grad()</strong></tt></a>
-<br><br>
-**Notebook Link** : https://jovian.ml/sayantan-world98/00-pytorch-gradients
 
 ---
